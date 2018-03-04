@@ -1,0 +1,169 @@
+/*  Base Styles  */
+
+html, * {
+  box-sizing: border-box;
+}
+
+body {
+    max-width: 960px;
+    margin: 1em;
+    font: 1em 'Quicksand', sans-serif;
+    color: #3a7cb2;
+    text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 28px;
+  margin: 5px 0 10px 0;
+}
+
+h4 {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+
+/*  Layout Styles  */
+
+header,
+main {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 2em;
+}
+
+header {
+  justify-content: space-between;
+}
+
+section {
+  padding-top: 2.5em;
+  width: 100%;
+}
+
+footer {
+  border-top: 1px solid #dfdfdf;
+  padding: 0.5em 0 0;
+  margin: 6em 0 2em 0;
+}
+
+#logo {
+  max-height: 80px;
+}
+
+.main-cover {
+  background-image: url("../img/luimg.jpg");
+  background-size: cover;
+  border-radius: 30px;
+  height: 400px;
+  width: 100%;
+  display: table;
+}
+
+.introduction {
+  color: #fff;
+  font-size: 2em;
+  padding: 1em;
+  margin: 0;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.title {
+  text-align: right;
+}
+
+.project-img {
+  margin-top: 2.5em;
+}
+
+.project-cover {
+  height: 200px;
+  border-radius: 22px;
+  margin-right: 0;
+}
+
+.email {
+  padding-right: 2em;
+}
+
+
+
+/*  Theme Rules  */
+
+.project1 {
+  background-color: #ef4ca6;
+}
+
+.project2 {
+  background-color: #586ba4;
+}
+
+.project3 {
+  background-color: #f79256;
+}
+
+.view-link {
+  color: #ef4ca6;
+}
+
+.contact-link {
+  color: #3a7cb2;
+  font-size: 18px;
+}
+
+
+
+/*  Media Queries  */
+
+@media screen and (min-width: 500px) {
+  section {
+    width: 48%;
+  }
+
+  .section1 {
+    margin-right: 4%;
+  }
+
+  .section3 {
+    margin: 0 auto;
+  }
+}
+
+
+@media screen and (min-width: 800px) {
+  .main-cover {
+    height: 450px;
+  }
+  .introduction {
+    font-size: 2.5em;
+    /*padding: 2.5em;*/
+  }
+
+  section {
+    width: 31.66%;
+  }
+
+  .section1,
+  .section2  {
+    margin-right: 2.5%;
+  }
+}
+
+@media screen and (min-width: 980px) {
+  body {
+    margin: auto;
+  }
+}
