@@ -1,7 +1,7 @@
 # portfolio
 This project is about building a portfolio site. It is part of the Udacity program for the Front-End Nanodegree. 
 
-## Known bugs
+## To do
 There are no links for viewing the pixel art and memory game projects as I haven't reach that part of the course yet. 
 
 ## Credits
