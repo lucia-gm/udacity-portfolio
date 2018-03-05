@@ -5,7 +5,7 @@ This project is about building a portfolio site. It is part of the Udacity progr
 There are no links for viewing the pixel art and memory game projects as I haven't reach that part of the course yet.
 
 ## Credits
-The icons used to represent each project are from https://thenounproject.com/ :
+The icons used to represent each project are from [The Noun Project](https://thenounproject.com):
 - Animal Card by Martin LEBRETON, FR
 - Pixel Art Maker by IconMark, PH
 - Memory Game by Sergey Demushkin, RU
