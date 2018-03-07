@@ -4,6 +4,10 @@ This project is about building a portfolio site. It is part of the Udacity progr
 ## To-do
 There are no links for viewing the pixel art and memory game projects as I haven't reach that part of the course yet.
 
+[View online demo](https://htmlpreview.github.io/?https://github.com/lucia-gm/portfolio/blob/master/index.html)
+
+![Preview](img/preview.png)
+
 ## Credits
 The icons used to represent each project are from [The Noun Project](https://thenounproject.com):
 - Animal Card by Martin LEBRETON, FR
