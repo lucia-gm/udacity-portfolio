@@ -1,12 +1,10 @@
 # Portfolio
 This project is about building a portfolio site. It is part of the Udacity program for the Front-End Nanodegree.
 
-[View online demo](https://htmlpreview.github.io/?https://github.com/lucia-gm/portfolio/blob/master/index.html)
+[View online demo](https://lucia-gm.github.io/portfolio/)
 
 ![Preview](img/preview.png)
 
-## To-do
-There are no links for viewing the pixel art and memory game projects as I haven't reach that part of the course yet.
 
 ## Credits
 The icons used to represent each project are from [The Noun Project](https://thenounproject.com):
