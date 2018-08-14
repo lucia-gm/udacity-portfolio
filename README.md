@@ -1,9 +1,13 @@
 # Portfolio
-This project is about building a portfolio site following a design mockup. It is part of the Udacity program for the Front-End Nanodegree. No starter code is provided.
+This project is about building a portfolio site following a design mockup.  No starter code is provided.
 
 [View online demo](https://lucia-gm.github.io/portfolio/)
 
 ![Preview](img/preview.png)
+
+
+## Project Overview
+The project is part of the Udacity Front-End Nanodegree. A design mockup is provided by Udacity.
 
 
 ## Credits
@@ -11,6 +15,7 @@ The icons used to represent each project are from [The Noun Project](https://the
 - Animal Card by Martin LEBRETON, FR
 - Pixel Art Maker by IconMark, PH
 - Memory Game by Sergey Demushkin, RU
+
 
 ## License
 MIT License
