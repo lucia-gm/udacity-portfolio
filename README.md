@@ -1,5 +1,5 @@
 # Portfolio
-This project is about building a portfolio site. It is part of the Udacity program for the Front-End Nanodegree.
+This project is about building a portfolio site following a design mockup. It is part of the Udacity program for the Front-End Nanodegree. No starter code is provided.
 
 [View online demo](https://lucia-gm.github.io/portfolio/)
 
