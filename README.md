@@ -1,7 +1,7 @@
 # Portfolio
 This project is about building a portfolio site following a design mockup.  No starter code is provided.
 
-[View online demo](https://lucia-gm.github.io/portfolio/)
+[View online demo](https://lucia-gm.github.io/udacity-portfolio/)
 
 ![Preview](img/preview.png)
 
